@@ -17,6 +17,11 @@ public class Main {
         return valor1 - valor2;
     }
 
+
+    private static int multiplicar(int a, int b) {
+        return a * b;
+    }
+
     public static void main(String[] args) {
 
     }
